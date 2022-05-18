@@ -44,4 +44,3 @@ class Mq
     }
 }
 
-Mq::getInstance();

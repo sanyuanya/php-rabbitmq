@@ -49,5 +49,3 @@ class Recv
         }
     }
 }
-
-Recv::getInatance();
