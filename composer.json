@@ -1,5 +1,5 @@
 {
-    "name": "sanyuan-php-rabbitmq",
+    "name": "sanyuan/php-rabbitmq",
     "description": "浅学一下",
     "autoload": {
         "psr-4": {
